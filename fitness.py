@@ -8,7 +8,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 
 mysql_host="localhost"
 mysql_user="root"
-mysql_password="HiHello123!!!"
+mysql_password="yourpassword"
 mysql_database="login"
 
 conn = mysql.connector.connect(
