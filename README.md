@@ -1,5 +1,6 @@
 # Fitness-Tracker
 Welcome to the Fitness Tracker repository, a comprehensive solution for monitoring your daily activities, calculating calorie expenditure based on exercises, and visualizing your fitness journey.
+
 Key Features:
 
 Exercise Calorie Calculator: This fitness tracker comes equipped with an advanced exercise calorie calculator. Input your workout details, and the system will estimate the calories burned, providing valuable insights into your fitness efforts.
